@@ -1,4 +1,4 @@
-ThorPatcherPrototype
+Thor Patcher Prototype
 ====================
 
 The original Thor Patcher prototype created back in 2007.
